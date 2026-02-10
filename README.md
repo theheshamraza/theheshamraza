@@ -62,6 +62,7 @@ The project focused on supporting farmers through technology while respecting an
 - Generative AI  
 - Prompt Engineering  
 - Reverse Engineering
+- HTML & CSS
 
 ---
 
