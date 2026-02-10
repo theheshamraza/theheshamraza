@@ -42,6 +42,8 @@ The project focused on supporting farmers through technology while respecting an
 ### 🛠️ Skills
 
 **Creative & Design**
+- Motion Graphics  
+- UI/UX Designer  
 - Video Editing  
 - Photo Editing  
 - Graphic Design  
@@ -53,12 +55,13 @@ The project focused on supporting farmers through technology while respecting an
 - Figma  
 - Adobe Illustrator  
 - Alight Motion 
+- GitHub
+- Termux
 
 **Tech & Digital**
 - Generative AI  
 - Prompt Engineering  
-- Basic Motion Graphics  
-- UI/UX Designer  
+- Reverse Engineering
 
 ---
 
@@ -87,7 +90,7 @@ The project focused on supporting farmers through technology while respecting an
   - Learned teamwork, ideation & problem solving  
 
 - **Freelance / Self-Learning Experience**  
-  - Hands-on practice in editing, design & creative tech  
+  - Hands-on practice in App development, design & creative tech  
   - Built personal and academic projects  
 
 ---
