@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="[https://your-image-link-here/banner.png](https://media.licdn.com/dms/image/v2/D4D16AQH4tTEobIMG0w/profile-displaybackgroundimage-shrink_350_1400/B4DZxBCNtoJIAY-/0/1770617626604?e=1772064000&v=beta&t=nzauMn03Cd4YhmKBlRKjtTtm-kOhUIk58maORwqMGkk)" alt="Profile Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH4tTEobIMG0w/profile-displaybackgroundimage-shrink_350_1400/B4DZxBCNtoJIAY-/0/1770617626604?e=1772064000&v=beta&t=nzauMn03Cd4YhmKBlRKjtTtm-kOhUIk58maORwqMGkk" alt="Profile Banner" width="100%" />
 </p>
 
 ---
