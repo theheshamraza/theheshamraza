@@ -8,7 +8,9 @@
 
 <!-- ===================== INTRO ===================== -->
 
-<h1 align="center">Hi 👋, I'm Hesham Raza</h1>
+<p align="center">
+  <img src=https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi,%20I%20am%20Hesham%20Raza&animation=twinkling&fontAlign=50&fontColor=000000"/>
+</p>
 
 <h3 align="center">
    UI/UX Designer | Front-End & CS Enthusiast | Aspiring Engineer | YI 2024 Qualifier | CBSE National Innovation Participant
