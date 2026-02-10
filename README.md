@@ -15,7 +15,7 @@
 </h3>
 
 <p align="center">
- I believe technology should act as a support system, strengthening the real world experience rather than replacing it.
+ “I believe technology should act as a support system, strengthening the real world experience rather than replacing it.”
 
 I am currently learning, experimenting, and building projects to strengthen my academic & technical foundation while preparing for future opportunities in engineering and technology.
 
