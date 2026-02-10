@@ -33,7 +33,7 @@ The project focused on supporting farmers through technology while respecting an
 - 🌱 Currently learning **AI, Development & Creative Tech**  
 - 💡 Interested in **Startups, Tech, Design & Innovation**  
 - 📍 Based in India  
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/theheshamraza)
+- 🔗 LinkedIn: [Ansari Hesham Raza](https://linkedin.com/in/theheshamraza)
 
 ---
 
@@ -98,7 +98,7 @@ The project focused on supporting farmers through technology while respecting an
 
 - 🥇 **Top 500 – Youth Ideathon India 2024**  
 - 📜 **Introduction to Generative AI**  
-- 📜 **Technology & Innovation-based Certificates**  
+- 📜 **Microsoft Exchange Data Security**  
 
 ---
 
