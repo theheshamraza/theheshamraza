@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm Hesham Raza</h1>
 
 <h3 align="center">
-  Creative Technologist | Video Editor | Designer | AI & Tech Enthusiast
+  Creative Technologist | Video Editor | Designer | UI/UX Designer | Front-End & CS Enthusiast | Aspiring Engineer | YI 2024 Qualifier | CBSE National Innovation Participant
 </h3>
 
 <p align="center">
