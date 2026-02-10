@@ -49,17 +49,16 @@ The project focused on supporting farmers through technology while respecting an
 - Storytelling & Visual Narratives  
 
 **Tools & Software**
-- Adobe Premiere Pro  
-- Adobe Photoshop  
+- Adobe XD
+- Figma  
 - Adobe Illustrator  
-- After Effects (Basics)  
+- Alight Motion 
 
 **Tech & Digital**
 - Generative AI  
 - Prompt Engineering  
 - Basic Motion Graphics  
 - UI/UX Awareness  
-- Git & GitHub (Basics)
 
 ---
 
@@ -103,28 +102,6 @@ The project focused on supporting farmers through technology while respecting an
 
 ---
 
-<!-- ===================== STATS ===================== -->
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" />
-</p>
-
----
-
-<!-- ===================== CONNECT ===================== -->
-
-### 🤝 Let’s Connect
-
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 📧 Email: your@email.com
-
----
-
-<p align="center">
-  ⭐ If you like my work, consider starring my repositories!
-</p>
 
 <!---
 theheshamraza/theheshamraza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
