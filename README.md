@@ -11,12 +11,16 @@
 <h1 align="center">Hi 👋, I'm Hesham Raza</h1>
 
 <h3 align="center">
-  Creative Technologist | Video Editor | Designer | UI/UX Designer | Front-End & CS Enthusiast | Aspiring Engineer | YI 2024 Qualifier | CBSE National Innovation Participant
+   UI/UX Designer | Front-End & CS Enthusiast | Aspiring Engineer | YI 2024 Qualifier | CBSE National Innovation Participant
 </h3>
 
 <p align="center">
-  I love building things at the intersection of <b>technology, creativity, and storytelling</b>.  
-  Currently exploring AI, software, design, and real-world problem solving 🚀
+ I believe technology should act as a support system, strengthening the real world experience rather than replacing it.
+
+I am currently learning, experimenting, and building projects to strengthen my academic & technical foundation while preparing for future opportunities in engineering and technology.
+
+During my academic journey, I led the team and contributed as a developer in designing and developing a student innovation project called Kisaan App, created for the CBSE Science Exhibition 2024 and Youth Ideathon (YI) 2024, where my team was selected among the Top 500 teams across India.
+The project focused on supporting farmers through technology while respecting and complementing their real world agricultural experience.
 </p>
 
 ---
