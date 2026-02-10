@@ -33,7 +33,7 @@ The project focused on supporting farmers through technology while respecting an
 - 🌱 Currently learning **AI, Development & Creative Tech**  
 - 💡 Interested in **Startups, Tech, Design & Innovation**  
 - 📍 Based in India  
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/theheshamraza)
 
 ---
 
@@ -58,7 +58,7 @@ The project focused on supporting farmers through technology while respecting an
 - Generative AI  
 - Prompt Engineering  
 - Basic Motion Graphics  
-- UI/UX Awareness  
+- UI/UX Designer  
 
 ---
 
