@@ -96,9 +96,12 @@ The project focused on supporting farmers through technology while respecting an
 
 ### 🏆 Honors & Certifications
 
-- 🥇 **Top 500 – Youth Ideathon India 2024**  - ThinkStartup
-- 📜 **Introduction to Generative AI**  - Intel Corporation
-- 📜 **Microsoft Exchange Data Security**  - Cloudally
+- 🥇 **Top 500 – Youth Ideathon India 2024**  
+by ThinkStartup
+- 📜 **Introduction to Generative AI**
+by Intel Corporation
+- 📜 **Microsoft Exchange Data Security**
+by Cloudally
 
 ---
 
