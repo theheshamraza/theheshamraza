@@ -109,7 +109,12 @@ by Intel Corporation
 - 📜 **Microsoft Exchange Data Security**
 by Cloudally
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thank%20You!&animation=twinkling&fontAlign=50&fontColor=000000&section=footer&reversal=false"/>
+</p>
+
 ---
+
 
 
 <!---
