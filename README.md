@@ -24,15 +24,9 @@ His core interest is in UI/UX Design, Front-End Development &
 Passionate about AI, Creative technology, Startups, and Innovation.
 - 📍 Based in India  
 - 🔗 LinkedIn: [Ansari Hesham Raza](https://linkedin.com/in/theheshamraza)
-- 
 
 <p align="center">
- “I believe technology should act as a support system, strengthening the real world experience rather than replacing it.”
-
-I am currently learning, experimenting, and building projects to strengthen my academic & technical foundation while preparing for future opportunities in engineering and technology.
-
-During my academic journey, I led the team and contributed as a developer in designing and developing a student innovation project called Kisaan App, created for the CBSE Science Exhibition 2024 and Youth Ideathon (YI) 2024, where my team was selected among the Top 500 teams across India.
-The project focused on supporting farmers through technology while respecting and complementing their real world agricultural experience.
+ “I believe technology should act as a support system, strengthening the real world experience rather than replacing it."
 </p>
 
 ---
