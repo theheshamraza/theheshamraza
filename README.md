@@ -9,9 +9,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&color=gradient&text=Hello%20Friend's&animation=twinkling&fontAlign=50&fontColor=000000"/>
 </p>
-<h2 align="center">
-   Ansari Hesham Raza
-</h2>
+
+# Ansari Hisham Raza
 
 <h3 align="center">
    UI/UX Designer | Front-End & CS Enthusiast | Youth Ideathon 2024 Top 500 Qualifier | CBSE National Innovation Participant
