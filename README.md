@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="center">
-   UI/UX Designer | Front-End & CS Enthusiast | Aspiring Engineer | YI 2024 Qualifier | CBSE National Innovation Participant
+   UI/UX Designer | Front-End & CS Enthusiast | Aspiring Engineer | Youyh Ideathon 2024 Top 500 Qualifier | CBSE National Innovation Participant
 </h3>
 
 <p align="center">
