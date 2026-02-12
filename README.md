@@ -7,7 +7,7 @@
 <!-- ===================== INTRO ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&color=gradient&text=Hello,%20Developer!&animation=twinkling&fontAlign=50&fontColor=000000"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&color=gradient&text=Hello,%20Developer!&animation=twinkling&fontAlign=50&stroke=ffffff&fontColor=000000&strokeWidth=2"/>
 </p>
 
 <h3 align="center">
@@ -102,7 +102,7 @@ by Intel Corporation
 by Cloudally
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thank%20You!&animation=twinkling&fontAlign=50&fontColor=000000&section=footer&reversal=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thank%20You!&animation=twinkling&fontAlign=50&&stroke=ffffff&fontColor=000000&strokeWidth=2&section=footer&reversal=false"/>
 </p>
 
 ---
