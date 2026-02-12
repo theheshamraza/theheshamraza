@@ -10,11 +10,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&color=gradient&text=Hello%20Friend's&animation=twinkling&fontAlign=50&fontColor=000000"/>
 </p>
 
-## Ansari Hesham Raza
-
 <h3 align="center">
    UI/UX Designer | Front-End & CS Enthusiast | Youth Ideathon 2024 Top 500 Qualifier | CBSE National Innovation Participant
 </h3>
+
+
+<!-- ===================== BASIC INFO ===================== -->
+
+### 👨‍💻 Basic Information
+
+Ansari Hesham Raza is a Science (PCM) Student based in Mumbai.  
+His core interest is in UI/UX Design, Front-End Development & 
+Passionate about AI, Creative technology, Startups, and Innovation.
+- 📍 Based in India  
+- 🔗 LinkedIn: [Ansari Hesham Raza](https://linkedin.com/in/theheshamraza)
+- 
 
 <p align="center">
  “I believe technology should act as a support system, strengthening the real world experience rather than replacing it.”
@@ -24,18 +34,6 @@ I am currently learning, experimenting, and building projects to strengthen my a
 During my academic journey, I led the team and contributed as a developer in designing and developing a student innovation project called Kisaan App, created for the CBSE Science Exhibition 2024 and Youth Ideathon (YI) 2024, where my team was selected among the Top 500 teams across India.
 The project focused on supporting farmers through technology while respecting and complementing their real world agricultural experience.
 </p>
-
----
-
-<!-- ===================== BASIC INFO ===================== -->
-
-### 👨‍💻 Basic Information
-
-- 🎓 Student | Lifelong Learner  
-- 🌱 Currently learning **AI, Development & Creative Tech**  
-- 💡 Interested in **Startups, Tech, Design & Innovation**  
-- 📍 Based in India  
-- 🔗 LinkedIn: [Ansari Hesham Raza](https://linkedin.com/in/theheshamraza)
 
 ---
 
