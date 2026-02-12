@@ -7,7 +7,7 @@
 <!-- ===================== INTRO ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&color=gradient&text=Hello,%20Developer&animation=twinkling&fontAlign=50&fontColor=000000"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&color=gradient&text=Hello,%20Developer!&animation=twinkling&fontAlign=50&fontColor=000000"/>
 </p>
 
 <h3 align="center">
