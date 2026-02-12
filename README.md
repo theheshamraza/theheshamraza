@@ -3,16 +3,15 @@
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQEhtwX_j6Ul7A/profile-displaybackgroundimage-shrink_350_1400/B4DZxLKFErI4AY-/0/1770787460344?e=1772668800&v=beta&t=9VmB__l2HVZBTzeligaQmBLXz7SnlfOMaqiYVeegBHg" alt="Profile Banner" width="100%" />
 </p>
-<h2 align="center">
-   Ansari Hesham Raza
-</h2>
----
 
 <!-- ===================== INTRO ===================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&color=gradient&text=Hello%20Friend's&animation=twinkling&fontAlign=50&fontColor=000000"/>
 </p>
+<h2 align="center">
+   Ansari Hesham Raza
+</h2>
 ---
 <h3 align="center">
    UI/UX Designer | Front-End & CS Enthusiast | Youth Ideathon 2024 Top 500 Qualifier | CBSE National Innovation Participant
