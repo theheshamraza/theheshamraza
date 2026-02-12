@@ -9,11 +9,11 @@
 <!-- ===================== INTRO ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&color=gradient&text=Hi,%20I%20am%20Ansari%20Hesham%20Raza&animation=twinkling&fontAlign=50&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&color=gradient&text=Hello%20Friend's,%20I%20am&animation=twinkling&fontAlign=50&fontColor=FFFFFF"/>
 </p>
 
 <h3 align="center">
-   UI/UX Designer | Front-End & CS Enthusiast | Aspiring Engineer | Youyh Ideathon 2024 Top 500 Qualifier | CBSE National Innovation Participant
+   UI/UX Designer | Front-End & CS Enthusiast | Youth Ideathon 2024 Top 500 Qualifier | CBSE National Innovation Participant
 </h3>
 
 <p align="center">
