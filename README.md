@@ -33,7 +33,7 @@ Passionate about AI, Creative technology, Startups, and Innovation.
 
 <!-- ===================== SKILLS ===================== -->
 
-### 🛠️ Skills
+### 🛠️ Core Interest & Skills
 
 **Creative & Design**
 - Motion Graphics  
